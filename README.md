@@ -10,4 +10,4 @@ I made it because I don't want to wait for cooldowns on other stats sites.
 
 ## WARNING
 
-Danielwerg - author of r6api.js, recommends not to use your own ubisoft account for ubi api.
+Danielwerg - author of r6api.js, recommends not to use your own ubisoft account for the ubi api.
