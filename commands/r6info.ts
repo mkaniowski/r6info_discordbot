@@ -62,7 +62,7 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setColor(rankColor)
             .setTitle(player.username)
-            .setAuthor({ name: 'R6Info', iconURL: 'https://imgur.com/1ELl1Ze.jpg', url: 'https://discord.js.org' })
+            .setAuthor({ name: 'R6Info', iconURL: 'https://i.imgur.com/F4XRH4U.jpg', url: 'https://discord.js.org' })
             .setThumbnail(player.avatar[500])
             .setDescription("Player's stats")
             .addFields(

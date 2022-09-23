@@ -17,13 +17,10 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
+    // "noEmit": true,
     "noResolve": false,
     "removeComments": true,
-    "sourceMap": true
-  },
-  "include": [
-    "./node_modules/**/*",
-    "src/**/*"
-  ]
+    "sourceMap": true,
+    "outDir": "./build",
+  }
 }
